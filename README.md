@@ -1,4 +1,4 @@
-code
+
 👋 Hi, I’m @SarahM199
 👀 I’m passionate about Data Science, Machine Learning, and Artificial Intelligence.
 🌱 Currently exploring the vast field of Artificial Intelligence.
